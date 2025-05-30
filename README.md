@@ -1,4 +1,5 @@
-# yoga_app
+# Yoga_App
 
-## UI çalışma
+## Flutter projesi ile UI çalışma
+### Frontend tasarım uygulaması
 
